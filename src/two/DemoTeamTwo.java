@@ -13,7 +13,7 @@ public class DemoTeamTwo {
 		int b= 2;
 		int c= 4;
 		addNum(a,b,c);
-		
+		addNum(1,2,3);
 
 	
 	}
